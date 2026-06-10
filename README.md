@@ -1,10 +1,5 @@
-# 07-vtp-attack
-Ataque VTP — agrega/borra VLANs
-
-# README — 07-vtp-attack
-
 # 07 — Ataque VTP (VLAN Trunking Protocol Attack)
-
+Ataque VTP — agrega/borra VLANs
 
 
 ## Objetivo del Laboratorio
