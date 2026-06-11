@@ -81,10 +81,14 @@ show vtp status
 ## Capturas de Pantalla
 
 ### Ataque en ejecución
-![VTP ataque](capturas/vtp_ataque.png)
+<img width="674" height="533" alt="image" src="https://github.com/user-attachments/assets/11322b24-af8f-46f4-a264-b955825ea1fc" />
+<img width="773" height="502" alt="image" src="https://github.com/user-attachments/assets/900654f4-928d-4f57-8d18-b6465346cb41" />
+
+
 
 ### VLANs modificadas en el switch
-![VLANs modificadas](capturas/vtp_switch.png)
+<img width="695" height="443" alt="image" src="https://github.com/user-attachments/assets/2a29f5f2-acc4-43e6-8c3a-1da27c73068e" />
+
 
 ---
 
