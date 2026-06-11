@@ -40,14 +40,14 @@ de VLANs del atacante.
 
 ```
 [Ubuntu-Atacante]──e0/0──[SW-Core]──e0/1──[Linux-Victima]
- 192.168.1.50                               192.168.1.10
+ 192.168.67.50                               192.168.67.60
 ```
 
 | Dispositivo | Interfaz | IP |
 |---|---|---|
-| Ubuntu-Atacante | ens3 | 192.168.1.50/24 |
+| Ubuntu-Atacante | ens3 | 192.168.67.50/24 |
 | SW-Core | e0/0 - e0/1 | — |
-| Linux-Victima | ens3 | 192.168.1.10/24 |
+| Linux-Victima | ens3 | 192.168.67.60/24 |
 
 ---
 
@@ -108,7 +108,7 @@ show vtp password
 ---
 
 ## Video Demostración
-[![Video](https://img.shields.io/badge/YouTube-Ver%20Video-red)](URL_DEL_VIDEO)
+https://youtu.be/JYxr1Q5VIXI
 
 ---
 
